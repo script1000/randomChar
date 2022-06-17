@@ -1,0 +1,1 @@
+body{margin:0;} #tank { border-radius: 100%; border: solid; border-color: #0f88a9; border-width: 14px; background-color: #15b5df; width: 200px; height: 200px; } #shooter{ z-index: -1; position: relative; left: 180px; top: 50px; width: 100px; height: 70px; background-color: #9d9d9d; border: solid; border-width: 14px; border-color: #787878; }

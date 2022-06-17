@@ -1,0 +1,47 @@
+body{
+    margin: 10px;
+  }
+  #body{
+    width: 100px;
+    height: 100px;
+    background-color: #80c9fe;
+    border-radius: 12px;
+  }
+  #eye1 {
+    background-color: black;
+    height:7px;
+    width: 30px;
+    transform: rotate(-25deg);
+    position: relative;
+    top: 48px;
+    left: 15px;
+  }
+  #eye2 {
+    background-color: black;
+    height:7px;
+    width: 30px;
+    transform: rotate(25deg);
+    position: relative;
+    top: 26px;
+    left: 60px;
+  }
+  #eyecorr{
+    background: black;
+    height: 15px;
+    width: 7px;
+    position: relative;
+    top: 45px;
+    left: 23px;
+  }
+  #mouth{
+    border-width: 7px 7px 0 0;
+    border-color: black;
+    border-style: solid;
+    position: relative;
+    top: 35px;
+    left: 40px;
+    width:20px;
+    height:20px;
+    border-radius: 0 22px 0 0;
+    transform: rotate(-45deg);
+  }
